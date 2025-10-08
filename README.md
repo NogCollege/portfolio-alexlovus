@@ -48,10 +48,10 @@
 
 ## 📞 Контакты
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [sashabelov208@yandex.ru](mailto:sashabelov208@yandex.ru)
 - **VK**: [vk.com/your_profile](https://vk.com/your_profile)
 - **Телеграм**: [@yournickname](https://t.me/yournickname)
-- **GitHub**: [github.com/yourname](https://github.com/yourname)
+- **GitHub**: [github.com/alexlovus](https://github.com/alexlovus)
 
 ---
 
